@@ -1,3 +1,6 @@
+# macOS
+.DS_Store
+
 # Prerequisites
 *.d
 
@@ -27,6 +30,5 @@
 *.lib
 
 # Executables
-*.exe
 *.out
-*.app
+
