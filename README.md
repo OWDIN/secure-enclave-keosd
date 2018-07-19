@@ -2,6 +2,8 @@
 <a href="https://github.com/owdin/secure-enclave-keosd/releases">![Download Latest](https://img.shields.io/badge/download-latest-brightgreen.svg?longCache=true&style=flat)</a>
 <!-- ![Download Count](https://img.shields.io/github/downloads/owdin/secure-enclave-keosd/total.svg) -->
 
+![secure-enclave-keosd](https://user-images.githubusercontent.com/1831308/42917377-3c35b3c6-8b44-11e8-9849-2c0e63e78a3f.gif)
+
 > Run Hardware-based EOS wallet with your Macbook Pro Touch ID.
 
 **[Download](https://github.com/owdin/secure-enclave-keosd/releases)** latest release.
